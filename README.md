@@ -1,4 +1,4 @@
-# cliboard
+# clipgo 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
@@ -26,7 +26,7 @@
 - Go programming language
 - [github.com/atotto/clipboard](https://github.com/atotto/clipboard) for cross-platform clipboard support
 
-# Installation
+## 🚀Installation
 
 ```bash
 git clone https://github.com/codesamu/clipgo.git
@@ -34,7 +34,7 @@ cd clipgo
 go build -o clipgo
 ```
 
-# Usage 
+## 🗃️Usage 
 ```bash
 clipgo add "title" "Value"
 clipgo list
