@@ -1,7 +1,6 @@
 # clipgo 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 > Simple CLI clipboard manager for storing named snippets, listing them, and copying any item to your system clipboard.
 
@@ -10,8 +9,6 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Data Storage](#data-storage)
-- [Roadmap](#roadmap)
 
 ## ✨ Features
 
